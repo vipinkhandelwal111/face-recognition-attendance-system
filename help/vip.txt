@@ -1,0 +1,1 @@
+start the software by running the "start.py" file
